@@ -26,11 +26,7 @@
 
 ###  Проекты
 
-<a href="https://github.com/crxwov/Autowatering-on-Arduino-Nano-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crxwov&repo=Autowatering-on-Arduino-Nano-&theme=tokyonight" />
-</a>
-
-**Autowatering-on-Arduino-Nano-** — бюджетный автополив растений на базе Arduino Nano 5V.
+**[Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-)** — бюджетный автополив растений на базе Arduino Nano 5V.
 
 ---
 
@@ -38,9 +34,12 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crxwov&show_icons=true&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crxwov&theme=tokyonight" width="80%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crxwov&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crxwov&theme=tokyonight" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crxwov&theme=tokyonight" width="42%" />
+
+<img src="https://streak-stats.demolab.com/?user=crxwov&theme=tokyonight" alt="GitHub Streak" />
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=crxwov&color=38BDF8&style=flat-square)
 
