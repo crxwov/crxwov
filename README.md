@@ -4,9 +4,11 @@
 
 **Backend-разработчик · автоматизирую всё на Python**
 
+</div>
+
 ---
 
-### ️ Технологии и инструменты
+## ️ Технологии и инструменты
 
 **Языки**
 
@@ -26,21 +28,18 @@
 
 ---
 
-###  Проекты
+##  Проекты
 
-**Автоматизация и боты**
-
-- [Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-) — бюджетный автополив растений на базе Arduino Nano 5V · ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-- [RestBuddy-](https://github.com/crxwov/RestBuddy-) — Telegram-бот для отслеживания сна · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Сетевые сервисы**
-
-- [admin-vpn](https://github.com/crxwov/admin-vpn) — панель администрирования VPN · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- [vpn-admin](https://github.com/crxwov/vpn-admin) — управление VPN-сервисами · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| Проект | Описание | Стек |
+|---|---|---|
+| [Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-) | Бюджетный автополив растений на базе Arduino Nano 5V | C++, Arduino |
+| [RestBuddy-](https://github.com/crxwov/RestBuddy-) | Telegram-бот для отслеживания сна | Python |
+| [admin-vpn](https://github.com/crxwov/admin-vpn) | Панель администрирования VPN | Python |
+| [vpn-admin](https://github.com/crxwov/vpn-admin) | Управление VPN-сервисами | Python |
 
 ---
 
-###  Статистика
+##  Статистика
 
 <div align="center">
 
