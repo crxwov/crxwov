@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Привет%2C+я+hackov+%F0%9F%91%8B;Backend-разработчик;Автоматизирую+всё+на+Python" alt="Typing SVG" />
+#  Привет, я hackov
+
+**Backend-разработчик · автоматизирую всё на Python**
 
 ---
 
@@ -26,7 +28,15 @@
 
 ###  Проекты
 
-**[Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-)** — бюджетный автополив растений на базе Arduino Nano 5V.
+**Автоматизация и боты**
+
+- [Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-) — бюджетный автополив растений на базе Arduino Nano 5V · ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- [RestBuddy-](https://github.com/crxwov/RestBuddy-) — Telegram-бот для отслеживания сна · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Сетевые сервисы**
+
+- [admin-vpn](https://github.com/crxwov/admin-vpn) — панель администрирования VPN · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- [vpn-admin](https://github.com/crxwov/vpn-admin) — управление VPN-сервисами · ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
