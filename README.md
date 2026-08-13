@@ -1,8 +1,11 @@
 <div align="center">
 
-#  Привет, я hackov
+# ‍ Привет, я crxwov
 
 **Backend-разработчик · автоматизирую всё на Python**
+
+![GitHub followers](https://img.shields.io/github/followers/crxwov?style=for-the-badge&label=Подписчики&color=38BDF8)
+![Просмотры профиля](https://komarev.com/ghpvc/?username=crxwov&color=38BDF8&style=for-the-badge)
 
 </div>
 
@@ -28,14 +31,18 @@
 
 ---
 
-##  Проекты
+##  Проект
 
-| Проект | Описание | Стек |
-|---|---|---|
-| [Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-) | Бюджетный автополив растений на базе Arduino Nano 5V | C++, Arduino |
-| [RestBuddy-](https://github.com/crxwov/RestBuddy-) | Telegram-бот для отслеживания сна | Python |
-| [admin-vpn](https://github.com/crxwov/admin-vpn) | Панель администрирования VPN | Python |
-| [vpn-admin](https://github.com/crxwov/vpn-admin) | Управление VPN-сервисами | Python |
+<div align="center">
+
+### [Autowatering-on-Arduino-Nano-](https://github.com/crxwov/Autowatering-on-Arduino-Nano-)
+
+Бюджетный автополив растений на базе Arduino Nano 5V
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
@@ -50,6 +57,12 @@
 
 <img src="https://streak-stats.demolab.com/?user=crxwov&theme=tokyonight" alt="GitHub Streak" />
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=crxwov&color=38BDF8&style=flat-square)
+</div>
+
+---
+
+<div align="center">
+
+Сделано с ❤️ и Python
 
 </div>
