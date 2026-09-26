@@ -2,8 +2,6 @@
 
 # ‍ Привет, я crxwov
 
-**Автоматизирую всё на Python**
-
 ![GitHub followers](https://img.shields.io/github/followers/crxwov?style=for-the-badge&label=Подписчики&color=38BDF8)
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=crxwov&color=38BDF8&style=for-the-badge)
 
