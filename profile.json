@@ -8,14 +8,14 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
+    "projects",
     "about",
     "stack",
-    "projects",
     "stats",
     "streak",
     "wave",
-    "buttons"
+    "buttons",
+    "socials"
   ],
   "hidden": [
     "socials"
