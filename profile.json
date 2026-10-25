@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "crxwov",
+  "seed": "#2D2B3D",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "hi^^",
+    "name": "",
+    "subtitle": "deytt.space",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Земля"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "разработчик и дизайнер"
+      },
+      {
+        "icon": "code",
+        "label": "делаю vpn - deytt."
+      },
+      {
+        "icon": "favorite",
+        "label": "люблю низкоуровневые языки"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": ""
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": ""
+          },
+          {
+            "icon": "brand:html5",
+            "label": ""
+          },
+          {
+            "icon": "brand:css",
+            "label": ""
+          },
+          {
+            "icon": "brand:javascript",
+            "label": ""
+          },
+          {
+            "icon": "brand:github",
+            "label": ""
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "deytt.connect",
+      "Autowatering-on-Arduino-Nano-"
+    ],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/crxwov/deytt.connect"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/deytt_u"
+      }
+    ],
+    "variant": "icon",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://deytt.space",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
