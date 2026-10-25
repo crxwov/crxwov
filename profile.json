@@ -26,16 +26,7 @@
     "subtitle": "deytt.space",
     "typing": true,
     "avatarShape": "cookie12",
-    "chips": [
-      {
-        "icon": "location_on",
-        "label": "Земля"
-      },
-      {
-        "icon": "code",
-        "label": "TypeScript · Python"
-      }
-    ]
+    "chips": []
   },
   "about": {
     "title": "Обо мне",
