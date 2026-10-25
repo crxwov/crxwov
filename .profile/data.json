@@ -1,0 +1,202 @@
+{
+ "key": "9405f7b7",
+ "stars": 1,
+ "contributions": 223,
+ "repos": 5,
+ "followers": 1,
+ "languages": [
+  [
+   "C#",
+   1020513
+  ],
+  [
+   "Kotlin",
+   927684
+  ],
+  [
+   "JavaScript",
+   67713
+  ],
+  [
+   "Go",
+   45199
+  ],
+  [
+   "Python",
+   14119
+  ],
+  [
+   "Java",
+   12457
+  ],
+  [
+   "C",
+   8505
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 18,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 10
+ },
+ "pins": [
+  {
+   "name": "deytt.connect",
+   "url": "https://github.com/crxwov/deytt.connect",
+   "text": "deytt./connect — приложение для выбора маршрута и подключения на Android и Windows.",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": [
+    "amneziawg2",
+    "android",
+    "hysteria2",
+    "trojan",
+    "vless",
+    "windows"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "deytt.connect",
+   "url": "https://github.com/crxwov/deytt.connect",
+   "text": "deytt./connect — приложение для выбора маршрута и подключения на Android и Windows.",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": [
+    "amneziawg2",
+    "android",
+    "hysteria2",
+    "trojan",
+    "vless",
+    "windows"
+   ]
+  },
+  {
+   "name": "my-niri-dotfiles",
+   "url": "https://github.com/crxwov/my-niri-dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "crxwov",
+   "url": "https://github.com/crxwov/crxwov",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ShareX",
+   "url": "https://github.com/crxwov/ShareX",
+   "text": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Autowatering-on-Arduino-Nano-",
+   "url": "https://github.com/crxwov/Autowatering-on-Arduino-Nano-",
+   "text": "Проект с прошивкой и объяснением сбора бюджетного авто полива на базе arduino nano 5v",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  }
+ ]
+}
