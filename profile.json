@@ -18,7 +18,8 @@
     "socials"
   ],
   "hidden": [
-    "socials"
+    "socials",
+    "about"
   ],
   "hero": {
     "greeting": "hi^^",
@@ -29,7 +30,7 @@
     "chips": []
   },
   "about": {
-    "title": "Обо мне",
+    "title": "обо мне",
     "items": [
       {
         "icon": "person",
@@ -46,51 +47,51 @@
     ]
   },
   "stack": {
-    "title": "Стек",
+    "title": "стек технологий:",
     "groups": [
       {
-        "title": "Main",
+        "title": "main",
         "items": [
           {
             "icon": "brand:python",
-            "label": ""
+            "label": "py"
           },
           {
             "icon": "brand:cplusplus",
-            "label": ""
+            "label": "c++"
           },
           {
             "icon": "brand:html5",
-            "label": ""
+            "label": "html"
           },
           {
             "icon": "brand:css",
-            "label": ""
+            "label": "css"
           },
           {
             "icon": "brand:javascript",
-            "label": ""
+            "label": "js"
           },
           {
             "icon": "brand:github",
-            "label": ""
+            "label": "gh"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "tools",
         "items": [
           {
             "icon": "brand:git",
-            "label": "Git"
-          },
-          {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "label": "git"
           },
           {
             "icon": "brand:archlinux",
-            "label": "Arch"
+            "label": "arch <3"
+          },
+          {
+            "icon": "brand:openjdk",
+            "label": "openjdk"
           }
         ]
       }
@@ -100,27 +101,27 @@
     "source": "manual",
     "repos": [
       "deytt.connect",
-      "Autowatering-on-Arduino-Nano-"
+      "my-niri-dotfiles"
     ],
     "overrides": {},
     "empty": "Описания пока нет.",
     "fork": "Fork"
   },
   "stats": {
-    "title": "Активность на GitHub",
-    "stars": "Звёзд получено",
-    "contributions": "Вкладов за год",
-    "repos": "Публичных репо",
-    "followers": "Подписчиков",
-    "calendar": "Последние 21 день",
+    "title": "активность на github",
+    "stars": "звёзд получено",
+    "contributions": "вкладов за год",
+    "repos": "публичных репо",
+    "followers": "подписчиков",
+    "calendar": "последние 21 день",
     "weekdays": "ВПВСЧПС",
-    "languages": "Языки в моих репозиториях",
+    "languages": "языки в моих репозиториях:",
     "showLanguages": true
   },
   "streak": {
-    "title": "Серия",
-    "current": "Текущая серия",
-    "longest": "Рекорд за год",
+    "title": "cерия",
+    "current": "текущая серия",
+    "longest": "рекорд за год",
     "days": "дн."
   },
   "socials": {
@@ -142,16 +143,23 @@
     "items": [
       {
         "icon": "language",
-        "label": "Мой сайт",
+        "label": "мой сайт",
         "url": "https://deytt.space",
         "style": "filled"
       },
       {
-        "icon": "book_2",
-        "label": "Все репозитории",
-        "url": "",
+        "icon": "brand:telegram",
+        "label": "deytt./update",
+        "url": "https://t.me/deytt_u",
         "style": "tonal"
+      },
+      {
+        "icon": "brand:telegram",
+        "label": "deytt./beta",
+        "url": "https://t.me/deyttbot",
+        "style": "filled"
       }
-    ]
+    ],
+    "card": false
   }
 }
