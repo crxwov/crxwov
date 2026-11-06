@@ -1,5 +1,5 @@
 {
- "key": "56a7b65b",
+ "key": "865ceb10",
  "stars": 1,
  "contributions": 1390,
  "repos": 5,
@@ -185,7 +185,7 @@
   {
    "name": "my-niri-dotfiles",
    "url": "https://github.com/crxwov/my-niri-dotfiles",
-   "text": "",
+   "text": "Мой персональный конфиг Niri",
    "fork": false,
    "stars": 0,
    "language": null,
