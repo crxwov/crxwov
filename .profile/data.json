@@ -1,8 +1,8 @@
 {
- "key": "7ada4c56",
+ "key": "890b04c5",
  "stars": 1,
- "contributions": 1417,
- "repos": 5,
+ "contributions": 1419,
+ "repos": 6,
  "followers": 1,
  "languages": [
   [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 3,
+    "c": 5,
     "day": 8,
     "today": true
    },
@@ -161,6 +161,15 @@
     "vless",
     "windows"
    ]
+  },
+  {
+   "name": "notka-app",
+   "url": "https://github.com/crxwov/notka-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
   },
   {
    "name": "my-niri-dotfiles",
