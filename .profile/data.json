@@ -1,25 +1,25 @@
 {
- "key": "40e5a6a9",
- "stars": 1,
- "contributions": 1478,
+ "key": "991adcf5",
+ "stars": 2,
+ "contributions": 1494,
  "repos": 6,
  "followers": 1,
  "languages": [
   [
    "C#",
-   1020513
+   1070811
   ],
   [
    "Kotlin",
    927684
   ],
   [
-   "Java",
-   91767
+   "JavaScript",
+   100145
   ],
   [
-   "JavaScript",
-   67713
+   "Java",
+   91767
   ],
   [
    "Go",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 59,
+    "c": 75,
     "day": 9,
     "today": true
    },
@@ -151,6 +151,15 @@
  ],
  "all": [
   {
+   "name": "notka-app",
+   "url": "https://github.com/crxwov/notka-app",
+   "text": "Нотка — музыкальный плеер для Android и Windows. Любимые треки и плейлисты с входом через Telegram.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "deytt.connect",
    "url": "https://github.com/crxwov/deytt.connect",
    "text": "deytt./connect — приложение для выбора маршрута и подключения на Android и Windows.",
@@ -165,15 +174,6 @@
     "vless",
     "windows"
    ]
-  },
-  {
-   "name": "notka-app",
-   "url": "https://github.com/crxwov/notka-app",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
   },
   {
    "name": "my-niri-dotfiles",
