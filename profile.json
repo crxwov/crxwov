@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "crxwov",
-  "seed": "#2D2B3D",
+  "seed": "#676473",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -101,9 +101,18 @@
     "source": "manual",
     "repos": [
       "deytt.connect",
-      "my-niri-dotfiles"
+      "notka-app"
     ],
-    "overrides": {},
+    "overrides": {
+      "deytt.connect": {
+        "icon": "language",
+        "shape": "gem"
+      },
+      "notka-app": {
+        "icon": "headphones",
+        "shape": "flower"
+      }
+    },
     "empty": "Описания пока нет.",
     "fork": "Fork"
   },

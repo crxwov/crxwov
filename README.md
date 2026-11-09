@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="hi^^ crxwov"></picture>
 
-<a href="https://github.com/crxwov/deytt.connect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-deytt-connect-dark.svg"><img src="assets/project-deytt-connect-light.svg" width="49%" alt="deytt.connect"></picture></a>&nbsp;<a href="https://github.com/crxwov/my-niri-dotfiles"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-my-niri-dotfiles-dark.svg"><img src="assets/project-my-niri-dotfiles-light.svg" width="49%" alt="my-niri-dotfiles"></picture></a>
+<a href="https://github.com/crxwov/deytt.connect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-deytt-connect-dark.svg"><img src="assets/project-deytt-connect-light.svg" width="49%" alt="deytt.connect"></picture></a>&nbsp;<a href="https://github.com/crxwov/notka-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-notka-app-dark.svg"><img src="assets/project-notka-app-light.svg" width="49%" alt="notka-app"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="стек технологий:"></picture>
 
