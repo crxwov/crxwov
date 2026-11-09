@@ -1,7 +1,7 @@
 {
- "key": "d7777765",
+ "key": "40e5a6a9",
  "stars": 1,
- "contributions": 1428,
+ "contributions": 1478,
  "repos": 6,
  "followers": 1,
  "languages": [
@@ -14,6 +14,10 @@
    927684
   ],
   [
+   "Java",
+   91767
+  ],
+  [
    "JavaScript",
    67713
   ],
@@ -24,10 +28,6 @@
   [
    "Python",
    14119
-  ],
-  [
-   "Java",
-   12457
   ],
   [
    "C",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 59,
     "day": 9,
     "today": true
    },
@@ -172,7 +172,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Java",
    "topics": []
   },
   {
