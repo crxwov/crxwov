@@ -1,7 +1,7 @@
 {
- "key": "dd5ecf1a",
+ "key": "cb1a5a96",
  "stars": 2,
- "contributions": 1522,
+ "contributions": 1534,
  "repos": 6,
  "followers": 1,
  "languages": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 24,
     "day": 14,
     "today": true
    }
@@ -167,6 +167,15 @@
     "vless",
     "windows"
    ]
+  },
+  {
+   "name": "notka-app",
+   "url": "https://github.com/crxwov/notka-app",
+   "text": "Нотка — музыкальный плеер для Android и Windows. Любимые треки и плейлисты с входом через Telegram.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
   }
  ],
  "all": [
