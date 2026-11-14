@@ -1,7 +1,7 @@
 {
- "key": "2207133b",
+ "key": "dd5ecf1a",
  "stars": 2,
- "contributions": 1510,
+ "contributions": 1522,
  "repos": 6,
  "followers": 1,
  "languages": [
@@ -138,13 +138,17 @@
    {
     "c": 3,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 12,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 20
  },
  "pins": [
